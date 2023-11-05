@@ -61,6 +61,6 @@ p.s. Убедитесь в том, что в таблицу добавляютс
 
 Результат работы dag [GRate](https://github.com/MOMIV/DE_T3.4/blob/main/dags/GRate.py)
 
-Предварительно добавлем variables, connections с помощью dag [01_inite](https://github.com/MOMIV/DE_T3.4/blob/main/dags/01_init.py)
+Предварительно добавлем variables, connections с помощью dag [01_init](https://github.com/MOMIV/DE_T3.4/blob/main/dags/01_init.py)
 
 ![Image alt](https://github.com/MOMIV/DE_T3.4/raw/main/pic/3.png)
