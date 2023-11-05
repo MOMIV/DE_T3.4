@@ -51,8 +51,16 @@ p.s. Убедитесь в том, что в таблицу добавляютс
 
 Решение:
 
+Результат работы dag [GMD](https://github.com/MOMIV/DE_T3.4/blob/main/dags/GMD.py)
+
 ![Image alt](https://github.com/MOMIV/DE_T3.4/raw/main/pic/1.png)
 
+Результат работы dag [GMD2](https://github.com/MOMIV/DE_T3.4/blob/main/dags/GMD2.py)
+
 ![Image alt](https://github.com/MOMIV/DE_T3.4/raw/main/pic/2.png)
+
+Результат работы dag [GRate](https://github.com/MOMIV/DE_T3.4/blob/main/dags/GRate.py)
+
+Предварительно добавлем variables, connections с помощью dag [01_inite](https://github.com/MOMIV/DE_T3.4/blob/main/dags/01_init.py)
 
 ![Image alt](https://github.com/MOMIV/DE_T3.4/raw/main/pic/3.png)
